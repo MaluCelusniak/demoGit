@@ -1,3 +1,6 @@
-Demo Git
+# Demo Git
 
-Learning GitHub
+- Learning GitHub
+
+1. Pushing modifications to GitHub
+
